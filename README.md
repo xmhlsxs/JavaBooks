@@ -87,6 +87,7 @@
 # 入门
 
 - Java 程序员进阶之路       [百度云下载链接](https://pan.baidu.com/s/1qwomiFHW6vZdVo26heMctg)  密码:1thn
+- GitHub 上标星 115k+ 的 Java 教程       [百度云下载链接](https://pan.baidu.com/s/1rT0l5ynzAQLF--efyRHzQw)  密码:dz95
 - Head First Java       [百度云下载链接](https://pan.baidu.com/s/14VZolSYQcyGKaG2WRpPB_w) 提取码:c07s 
 - Java 核心技术卷       [百度云下载链接](https://pan.baidu.com/s/1Um_boa6CusUAfjIY6x6Gzw) 提取码:1fvj 
 - Java 编程思想       [百度云下载链接](https://pan.baidu.com/s/1cQYOWEMmHy8Z60I_NXRqug)  密码:9xcr
@@ -104,7 +105,6 @@
 - Java 趣味编程 100 例       [百度云下载链接](https://pan.baidu.com/s/1mxipMmn_4fY1AeLxqvp6Tw) 提取码:gfaq 
 - Java 入门 123       [百度云下载链接](https://pan.baidu.com/s/1l5b7HByO2adddG3qpjSvnA) 提取码:tdb0 
 - Java 网络编程       [百度云下载链接](https://pan.baidu.com/s/156lbtD6AAidIpgn6hdflsw) 提取码:6ovu 
-- GitHub 上标星 115k+ 的 Java 教程       [百度云下载链接](https://pan.baidu.com/s/1rT0l5ynzAQLF--efyRHzQw)  密码:dz95
 
 # 工具
 

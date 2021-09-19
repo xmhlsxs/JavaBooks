@@ -239,6 +239,7 @@
 - 认识操作系统       [百度云下载链接](https://pan.baidu.com/s/1oNMbvR0fb7_LP7lIK2KTLw)  密码:2sm9
 - Windows 内核原理与实现       [百度云下载链接](https://pan.baidu.com/s/13G3jzzT5IbFoL0T5lLHa1Q)  密码:lpv9
 - 现代操作系统原书       [百度云下载链接](https://pan.baidu.com/s/130w-HDkE37XijQ6yvyHDdw) 提取码:7673
+- 现代操作系统原理与实现       [百度云下载链接](https://pan.baidu.com/s/1kTKAOI1ewjN9HD8qv8OEnA)  密码:6bsn
 - 计算机系统概论       [百度云下载链接](https://pan.baidu.com/s/1ZvkuSCoOP4XezzlJSyd07Q)  密码:xudx
 
 ## Linux基础知识

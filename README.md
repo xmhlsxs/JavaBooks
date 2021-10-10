@@ -261,6 +261,7 @@
 - 深入理解 Linux 内核       [百度云下载链接](https://pan.baidu.com/s/1HPDJYuDd82mzq8aKLIYY9g)  密码:imav
 - 深入 Linux 内核架构       [百度云下载链接](https://pan.baidu.com/s/1p-R31fBFdYTIonnrBFMPTg)  密码:vnhj
 -  Linux 内核源代码情景分析       [百度云下载链接](https://pan.baidu.com/s/1wjIi4vsR2RBdBz_fjC-LTw)  密码:o08i
+-  Linux内核完全注释(附linux0.11内核源码,超全注释)       [百度云下载链接](https://pan.baidu.com/s/1LSM5C2ANvzj45aEHaXCg3Q)  密码:4azv
 
 # 计算机网络
 

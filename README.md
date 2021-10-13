@@ -551,6 +551,8 @@
 
 - 程序员健康指南       [百度云下载链接](https://pan.baidu.com/s/1EssOkFfZV93QIB9IAFmjmw)  密码:pl0i
 - 颈椎康复指南       [百度云下载链接](https://pan.baidu.com/s/1AdqcGTLOUkQxrFFURNYq7A)  密码:ouhh
+- 刷爆朋友圈的互联网公司作息表格       [百度云下载链接](https://pan.baidu.com/s/1r7kdeKx8_nq2kASOVnGRGQ)  密码:ssuy
+
 
 
 

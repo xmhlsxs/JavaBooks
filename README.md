@@ -230,6 +230,7 @@
 
 # 操作系统
 
+- 操作系统核心知识点       [百度云下载链接](https://pan.baidu.com/s/13bKplAS_7q0LwqpE7C4l6w)  密码:3rp1
 - 深入理解计算机系统       [百度云下载链接](https://pan.baidu.com/s/1RRrLvVfGKMIthqadwL2Cjg)  密码:819r
 - Linux 与 Unix shell 编程指南       [百度云下载链接](https://pan.baidu.com/s/1L1xEssb5igRaFz4ZAyWlmA)  密码:z79w
 - 操作系统原理       [百度云下载链接](https://pan.baidu.com/s/19ZGi-jo_By8TIy--Z7q1ug)  密码:4llf

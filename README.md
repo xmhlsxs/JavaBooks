@@ -353,6 +353,7 @@
 
 ### C
 
+- 阮一峰 C语言入门教程       [百度云下载链接](https://pan.baidu.com/s/1TjkEdBNjSO-NtWUxa4zeGg) 提取码:epkk
 - C程序设计语言（第二版，中文版，B.W.Kernighan、D.M.Ritchie 著）       [百度云下载链接](https://pan.baidu.com/s/1MdCMAAiMoHYkanm8cQS4lA)  密码:bzj8
 - C Primer Plus       [百度云下载链接](https://pan.baidu.com/s/1EgDS--OsTBH-w4FYREx7Ng)  密码:7qru
 - C 和指针       [百度云下载链接](https://pan.baidu.com/s/1txytF0YBRgCIcqNRGvcDpA)  密码:oaum

@@ -438,7 +438,7 @@
 ### go
 
 - 学习 go 语言       [百度云下载链接](https://pan.baidu.com/s/1m_3CQ7Jm1yQ6c8ritXYerA)  密码:grvq
-- 玩转 go 语言       [百度云下载链接](https://pan.baidu.com/s/1_VYBZnS4hpIbI9RPyLqxZA)  密码:idtf
+- 玩转 go 语言       [百度云下载链接](https://pan.baidu.com/s/1Bi1_n_LN56JuJKDjwNs_Sw)  密码:ymw9
 - go 语言编程       [百度云下载链接](https://pan.baidu.com/s/17ktQRTO7856MDXsiOMFYig)  密码:131i
 
 ### JavaWeb

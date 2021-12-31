@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-30T08:40:18.016Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="UV14-cZ5binEts6mFStJ" version="15.9.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-12-31T07:13:57.728Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="2xKjV-8912EfBVT8ipfl" version="15.9.6" type="github" pages="3">
   <diagram id="HomLWFY-gxlFdyof8DEI" name="Page-3">
-    <mxGraphModel dx="2531" dy="1746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2338" dy="1689" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="w7GBIX-vO4ZEEMxR8p69-0" />
         <mxCell id="w7GBIX-vO4ZEEMxR8p69-1" parent="w7GBIX-vO4ZEEMxR8p69-0" />
@@ -1790,6 +1790,21 @@
         </mxCell>
         <mxCell id="GP6EJjJM6faZs3iayZki-2" value="云服务器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="w7GBIX-vO4ZEEMxR8p69-1">
           <mxGeometry x="-1116" y="2208" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GP6EJjJM6faZs3iayZki-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;shape=flexArrow;startArrow=block;fontSize=14;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="w7GBIX-vO4ZEEMxR8p69-1" source="GP6EJjJM6faZs3iayZki-5" target="GP6EJjJM6faZs3iayZki-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GP6EJjJM6faZs3iayZki-5" value="本地" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="w7GBIX-vO4ZEEMxR8p69-1">
+          <mxGeometry x="-1477" y="2528" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GP6EJjJM6faZs3iayZki-8" style="edgeStyle=none;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;startArrow=block;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="w7GBIX-vO4ZEEMxR8p69-1" source="GP6EJjJM6faZs3iayZki-6" target="GP6EJjJM6faZs3iayZki-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GP6EJjJM6faZs3iayZki-6" value="GitHub" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="w7GBIX-vO4ZEEMxR8p69-1">
+          <mxGeometry x="-1249" y="2379" width="60" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="GP6EJjJM6faZs3iayZki-7" value="云服务器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="w7GBIX-vO4ZEEMxR8p69-1">
+          <mxGeometry x="-1102" y="2528" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

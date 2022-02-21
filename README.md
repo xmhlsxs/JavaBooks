@@ -6,7 +6,7 @@
 
 >顺带宣传一下我关注的这个原创公众号：专注于 Java 后端技术分享，欢迎小伙伴们扫一扫关注一下，一定会大有所获。
 
-![图片没显示的时候，微信搜索”沉默王二“也可以找得到](https://cdn.jsdelivr.net/gh/itwanger/toBeBetterJavaer/images/gongzhonghao.png)
+![图片没显示的时候，微信搜索”沉默王二“也可以找得到](https://itwanger-oss.oss-cn-beijing.aliyuncs.com/codingmore/banner/gongzhonghao.png)
 
 
 - [01、入门](#入门)
